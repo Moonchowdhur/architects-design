@@ -404,6 +404,10 @@ margin-left: 300px;
         font-size: 2.5rem;
     }
 
+    .banner-btn {
+        left: 120px;
+    }
+
    /* section1 styles */
     .section1 {
         flex-direction: column;
@@ -443,6 +447,13 @@ margin-left: 300px;
 
       .section2-image {
         width: 100%;
+    }
+
+    .section2-btn {   
+        width: 280px;
+        left: 90px;
+        top: -20px;
+        margin-bottom:50px;
     }
      
     /* section-3 styles */
